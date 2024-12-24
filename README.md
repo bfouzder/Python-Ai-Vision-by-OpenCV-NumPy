@@ -54,7 +54,9 @@ pip install opencv-python numpy
 
 ## Sample Output
 
-When the script runs successfully, you should see a pop-up window with the bordered image.
+When the script runs successfully, 
+   - ai_vision.py: you should see a pop-up window with the bordered image.
+   - ai_vision_circle.py:you should see a pop-up window with the processed image with detected circles
 
 ## Troubleshooting
 
