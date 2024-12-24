@@ -1,4 +1,4 @@
-# AI Vision Project by Adity
+# AI Vision Project by Aditya
 
 This project demonstrates basic image processing using Python, OpenCV, and NumPy. The script loads an image, converts it to grayscale, and adds a white border around it.
 
